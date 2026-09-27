@@ -439,15 +439,6 @@ with your MySQL username and password.
 
 ---
 
-# Screenshots
-
-Add screenshots of
-
-- Login Page
-- Dashboard
-- Employee List
-- Add Employee
-- Categories
 
 ---
 
